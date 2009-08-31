@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2765
+
+This is based off of the indentation script for ruby which is well written and fast. It is nearly perfect but will sometimes miss edge cases. It usually recovers those errors at the end of a block though, so overall even very long files will be largely correct. 
+
+Please fork this project at http://github.com/pangloss/vim-javascript to help make it even better.
+
+This script includes Yi Zhao&#039s javascript syntax script v 0.7.7
